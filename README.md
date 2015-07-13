@@ -1,5 +1,5 @@
 # Learn Python The Hard Way
-![Learn Python The Hard Way](/lpthw.png)
+![Learn Python The Hard Way](/logo.png)
 
 Teaching myself Python just to be familiar with different technologies. 
 
