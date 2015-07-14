@@ -29,4 +29,9 @@ print "My weight in in kilograms is %.2fkg" % in_kilograms
 # X - signed hexadecimal (uppercase)
 # e - floating point exponential form (lowercase)
 # E - floating point exponential form (uppercase)
-# g - floating point format.
+# g - floating point format (lowercase)
+# G - floating point format (uppercase)
+# c - single character 
+# r - string (converts any Python object using repr())
+# s - string (converts any Python object using str())
+# % - no arguement is converted, results in a '%' character  in the result
